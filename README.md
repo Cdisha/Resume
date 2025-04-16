@@ -2,7 +2,7 @@
  A Markdown-based resume highlighting my skills, projects, and experience.
  # Disha Chakraborty  
 dishachakraborty2022@vitbhopal.ac.in | +91 8178848900 | Delhi  
-[LinkedIn](https://www.linkedin.com/in/dishachakraborty0805) |[Github] https://github.com/Cdisha
+[LinkedIn](https://www.linkedin.com/in/dishachakraborty0805) |[Github](https://github.com/Cdisha)
 
 ---
 
